@@ -1,0 +1,8 @@
+{
+  "name": "ApexSound - Car Bluetooth Speed & Sport Exhaust Simulator",
+  "description": "Pair your phone with your car audio via Bluetooth to stream roaring supercar exhaust notes synced to real-time GPS speed, acceleration G-forces, and dual-clutch transmission shifts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
